@@ -114,7 +114,7 @@ const Home: NextPage<IHomeProps> = ({ jobs, projects, skills }) => {
         />
         <meta
           name="description"
-          content="Hi, I am Aleksei, and this is my personal page which I use for practicing and playing with some interesting technologies. I have about 4 years of experience as a QA Automation Engineer"
+          content="Hi, I am Aleksei, and this is my personal page which I use for practicing and playing with some interesting technologies. I have more than 5 years of experience as a QA Automation Engineer"
         />
         <meta name="author" content="Aleksei Bukhalov" />
         <link rel="icon" href="/favicon.ico" />
