@@ -12,7 +12,7 @@ export const About: NextPage = () => {
         <p className="about_left_text">
           This is my personal page.<br></br>
           I use it for practicing and playing with some interesting technologies. <br></br>
-          I have about 4 years of experience as a QA Automation Engineer.
+          I have more than 5 years of experience as a QA Automation Engineer.
         </p>
         <div className="about_left_socialMedia">
           <img
